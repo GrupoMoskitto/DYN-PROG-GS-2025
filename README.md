@@ -126,11 +126,6 @@ O arquivo `funcionarios.csv` segue o seguinte esquema de dados:
    python app.py
    ```
 
-5. **Inicialização do Sistema**
-   ```bash
-   python app.py
-   ```
-
 ## Impacto Organizacional
 
 ### Alinhamento com os ODS da ONU
