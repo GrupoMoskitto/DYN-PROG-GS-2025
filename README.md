@@ -1,4 +1,6 @@
-# Sistema de Gestão de Saúde Ocupacional
+# Global Solution 2025 - Dynamic Programming
+
+## Sistema de Gestão de Saúde Ocupacional com Otimização por Programação Dinâmica
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x4DfFz3Q4fNytUKvT2QNIsfhoYqcmY3X?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -13,7 +15,20 @@
 
 ## Visão Geral
 
-O Sistema de Gestão de Saúde Ocupacional é uma solução desenvolvida como parte do projeto acadêmico de Gestão de Sistemas. Esta ferramenta tem como propósito principal otimizar a gestão da saúde mental no ambiente corporativo, com ênfase na prevenção da síndrome de burnout e na promoção de práticas organizacionais saudáveis.
+Desenvolvido como projeto de Global Solution 2025 para a disciplina de Dynamic Programming, este sistema aplica conceitos avançados de programação dinâmica para otimizar a gestão da saúde ocupacional. A solução utiliza o algoritmo da Mochila (Knapsack) para otimizar investimentos em bem-estar, maximizando o impacto na saúde mental dos colaboradores dentro de um orçamento limitado.
+
+### Destaques Técnicos
+- Implementação do algoritmo Knapsack para otimização de recursos
+- Análise de complexidade e eficiência computacional
+- Solução escalável para tomada de decisão em saúde ocupacional
+
+## Objetivos de Aprendizado
+
+Este projeto tem como objetivos pedagógicos:
+- Aplicar conceitos de programação dinâmica em um cenário real
+- Desenvolver habilidades de otimização de algoritmos
+- Implementar soluções computacionais eficientes para problemas complexos
+- Analisar a complexidade de tempo e espaço das soluções propostas
 
 ## Objetivos Estratégicos
 
