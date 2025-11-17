@@ -117,7 +117,7 @@ O arquivo `funcionarios.csv` segue o seguinte esquema de dados:
 - Verificação de consistência de faixas de valores
 - Geração de dados sintéticos com distribuição realista
 
-## Guia de Implementação
+## Guia de Execução
 
 1. Clone o repositório:
    ```bash
